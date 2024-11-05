@@ -1,0 +1,3 @@
+@echo off
+python C:\Users\(replace with name)\OneDrive\Documents\Python\Ai_modle_v1.py
+pause
